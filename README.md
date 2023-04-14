@@ -22,3 +22,7 @@ npm install
 ```sh
 npm run dev
 ```
+
+## Desktop
+
+[![vue-img.png](https://i.postimg.cc/J0nW2FCc/vue-img.png)](https://postimg.cc/9RvS4JMr)
